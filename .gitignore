@@ -37,3 +37,8 @@ Temporary Items
 
 # Exclude .NET assemblies from source
 *.dll
+
+# dossier du repo générés par le script
+archives/
+dowloads/
+tmp/
